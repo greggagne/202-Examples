@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74be974-7acb-406d-9b6c-bbb59aaac784" name="Changes" comment="Added PracticeOne class">
-      <change afterPath="$PROJECT_DIR$/src/Shape.java" afterDir="false" />
+    <list default="true" id="b74be974-7acb-406d-9b6c-bbb59aaac784" name="Changes" comment="Added Shape interface">
+      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -53,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690917845356</updated>
-      <workItem from="1690917846351" duration="1964000" />
+      <workItem from="1690917846351" duration="2630000" />
     </task>
     <task id="LOCAL-00001" summary="Added PracticeOne class">
       <option name="closed" value="true" />
@@ -95,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690919787317</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added Shape interface">
+      <option name="closed" value="true" />
+      <created>1690919978403</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690919978403</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added PracticeOne class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added PracticeOne class" />
+    <MESSAGE value="Added Shape interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Shape interface" />
   </component>
 </project>
