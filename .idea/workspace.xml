@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b74be974-7acb-406d-9b6c-bbb59aaac784" name="Changes" comment="Added PracticeOne class">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PracticeOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690917845356</updated>
-      <workItem from="1690917846351" duration="1713000" />
+      <workItem from="1690917846351" duration="1790000" />
     </task>
     <task id="LOCAL-00001" summary="Added PracticeOne class">
       <option name="closed" value="true" />
@@ -79,7 +78,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690918552053</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added PracticeOne class">
+      <option name="closed" value="true" />
+      <created>1690919712884</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690919712884</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
